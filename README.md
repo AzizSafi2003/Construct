@@ -26,8 +26,9 @@ Designed with a focus on smooth interactions, visual clarity, and responsive lay
 
 # Visit link:
 
-You can visit the web page here:
+<a href="https://construct2003.netlify.app/">
 [`https://construct2003.netlify.app/`]
+</a>
 
 ## Getting Started
 
